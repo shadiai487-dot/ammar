@@ -1,0 +1,2 @@
+list_of_name = ["ammar" , "lolo" , "masa"]
+print(list_of_names)
